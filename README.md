@@ -4,6 +4,9 @@
 
 Me chamo Flavio Pereira, tenho 26 anos e atualmente estou cursando o curso de Banco de Dados.
 Estou em busca de oportunidades para expandir meus conhecimentos e colocar em prática o que estou aprendendo.
+<br>
+<br>My name is Flavio Pereira, I am 26 years old, and I am currently studying Database Management. I am looking for opportunities to expand my knowledge and put into practice what I am learning
+
 
 ---
 
