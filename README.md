@@ -6,7 +6,7 @@ Meu nome é Flavio Pereira, tenho 26 anos, estou cursando faculdade de Banco de 
 <br>
 
 
-🥋 Código e Combate: A Arte da Persistência
+ ⌨️ Código e 🥋 Combate: A Arte da Persistência
 <br>
 A programação e a luta compartilham um princípio fundamental: a evolução vem com treino e persistência. Cada linha de código escrita é como um golpe praticado inúmeras vezes até a perfeição. Cada bug corrigido é como um obstáculo superado no tatame ou no ringue.
 
