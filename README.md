@@ -10,7 +10,7 @@ Estou em busca de oportunidades para expandir meus conhecimentos e colocar em pr
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+### 🤖 Linguagens
 
 
 <img 
