@@ -29,6 +29,14 @@ Meu nome é Flavio Pereira, tenho 26 anos e estou na faculdade de Banco de Dados
     style="padding-right: 20px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" 
 />
+<img 
+    align="left" 
+    alt="Pycharm" 
+    title="Pycharm"
+    width="50px" 
+    style="padding-right: 20px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pycharm/pycharm-original.svg" 
+/>
 
 <img 
     align="left" 
