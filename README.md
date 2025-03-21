@@ -2,9 +2,17 @@
 
 **`Desenvolvedor em andamento ⏳`**
 
-Meu nome é Flavio Pereira, tenho 26 anos e estou na faculdade de Banco de Dados.
+Meu nome é Flavio Pereira, tenho 26 anos, estou cursando faculdade de Banco de Dados e sou praticante de luta.
 <br>
-<br>My name is Flavio Pereira, I am 26 years old, and I am in college studying Database Management.
+
+
+🥋 Código e Combate: A Arte da Persistência
+<br>
+A programação e a luta compartilham um princípio fundamental: a evolução vem com treino e persistência. Cada linha de código escrita é como um golpe praticado inúmeras vezes até a perfeição. Cada bug corrigido é como um obstáculo superado no tatame ou no ringue.
+
+Aqui, acreditamos que a disciplina e a repetição criam mestres. Assim como um lutador aprimora sua técnica a cada treino, um desenvolvedor evolui a cada commit. O erro não é derrota, mas um passo essencial para o aperfeiçoamento.
+
+💻🔥 Código com estratégia. Erros como aprendizado. Deploys como vitórias.
 
 ---
 
