@@ -1,16 +1,65 @@
-## Hi there 👋
+# 👨🏾‍💻 Flavio Pereira
 
-<!--
-**jnr98/jnr98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**`Desenvolvedor em andamento ⏳`**
 
-Here are some ideas to get you started:
+Me chamo Flavio Pereira, tenho 26 anos e atualmente estou cursando o curso de Banco de Dados.
+Estou em busca de oportunidades para expandir meus conhecimentos e colocar em prática o que estou aprendendo.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🤖 Linguagens e Tecnologias
+
+
+<img 
+    align="left" 
+    alt="mysql" 
+    title="mysql"
+    width="60px" 
+    style="padding-right: 20px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" 
+/>
+
+
+<img 
+    align="left" 
+    alt="Python" 
+    title="Python"
+    width="50px" 
+    style="padding-right: 20px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+/>
+
+<img 
+    align="left" 
+    alt="postgreSQL" 
+    title="postgreSQL"
+    width="50px" 
+    style="padding-right: 20px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain-wordmark.svg" 
+/>
+
+
+<br/>
+<br/>
+
+---
+
+### 📊 Estatísticas
+
+<p>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="150" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=jnr98&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+  />
+
+<img 
+      align="left" 
+      alt="GitHub Stats" 
+      height="150" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=jnr98&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=3" 
+  />
+
+</p>
