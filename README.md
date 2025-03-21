@@ -2,9 +2,9 @@
 
 **`Desenvolvedor em andamento ⏳`**
 
-Me chamo Flavio Pereira, tenho 26 anos e atualmente estou cursando o curso de Banco de Dados.
+Meu nome é Flavio Pereira, tenho 26 anos e estou na faculdade de Banco de Dados.
 <br>
-<br>My name is Flavio Pereira, I am 26 years old, and I am currently studying Database Management. 
+<br>My name is Flavio Pereira, I am 26 years old, and I am in college studying Database Management.
 
 ---
 
