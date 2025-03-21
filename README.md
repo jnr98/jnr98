@@ -27,7 +27,7 @@ Me chamo Flavio Pereira, tenho 26 anos e atualmente estou cursando o curso de Ba
     title="Python"
     width="50px" 
     style="padding-right: 20px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" 
 />
 
 <img 
