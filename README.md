@@ -15,8 +15,10 @@ A evolução vem com treino e persistência. Cada linha de código escrita é co
 Aqui, acreditamos que a disciplina e a repetição criam mestres. Assim como um lutador aprimora sua técnica a cada treino, um desenvolvedor evolui a cada commit. O erro não é derrota, mas um passo essencial para o aperfeiçoamento.
 
 💻🔥 Código com estratégia. Erros como aprendizado. Deploys como vitórias.
----
+<br/>
+<br/>
 
+---
 ### 🤖 Linguagens
 
 
