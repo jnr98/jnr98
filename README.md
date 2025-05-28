@@ -2,10 +2,8 @@
 
 **`Desenvolvedor em andamento ⏳`**
 
-Meu nome é Flavio Pereira, tenho 26 anos, estou cursando faculdade de Banco de Dados.
+Meu nome é Flavio Pereira Jr., tenho 26 anos, estou cursando faculdade de Banco de Dados.
 <br>
-
-
  <br>
  Em breve, novas informações e projetos serão adicionados ao meu portfólio no GitHub. 
 <br/>
