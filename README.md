@@ -2,12 +2,12 @@
 
 **`Desenvolvedor em andamento ⏳`**
 
-Meu nome é Flavio Pereira Jr., tenho 26 anos, estou cursando faculdade de Banco de Dados.
+Meu nome é Flavio Pereira Jr, tenho 26 anos, estou cursando faculdade de Banco de Dados.
  <br>
  Em breve, novas informações e projetos serão adicionados ao meu portfólio no GitHub. 
 <br/>
 <br>
-My name is Flavio Pereira Jr., I’m 26 years old, and I’m currently studying Database Management in college.
+My name is Flavio Pereira Jr, I’m 26 years old, and I’m currently studying Database Management in college.
 <br>
 Soon, new information and projects will be added to my GitHub portfolio.
 </br>
