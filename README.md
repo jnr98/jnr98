@@ -88,7 +88,7 @@ Soon, new information and projects will be added to my GitHub portfolio.
 
 ------
 <div> 
- <a href="https://www.linkedin.com/in/flavjuni/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original-wordmark.svg" /></a> 
+ <a href="https://www.linkedin.com/in/flavjuni/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  <a href="https://www.instagram.com/jnr_98/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 
 </div>
