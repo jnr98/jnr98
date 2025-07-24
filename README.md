@@ -15,7 +15,23 @@ Soon, new information and projects will be added to my GitHub portfolio.
 
 ---
 ### 🤖 Linguagens
+<img 
+    align="left" 
+    alt="Java" 
+    title="Java"
+    width="50px" 
+    style="padding-right: 20px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg"        
+/>
 
+<img 
+    align="left" 
+    alt="Python" 
+    title="Python"
+    width="50px" 
+    style="padding-right: 20px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" 
+/>
 
 <img 
     align="left" 
@@ -26,15 +42,6 @@ Soon, new information and projects will be added to my GitHub portfolio.
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" 
 />
 
-
-<img 
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="50px" 
-    style="padding-right: 20px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" 
-/>
 <img 
     align="left" 
     alt="Pycharm" 
