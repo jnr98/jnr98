@@ -1,101 +1,42 @@
-# 👨🏾‍💻 Flavio Pereira Jr.
+<h3 align="center">👨🏾‍💻 Flavio Pereira Jr.<br>Desenvolvedor em andamento ⏳</h3>
 
-**`Desenvolvedor em andamento ⏳`**
+###
 
-Meu nome é Flavio Pereira Jr, tenho 26 anos, estou cursando faculdade de Banco de Dados.
- <br>
- Em breve, novas informações e projetos serão adicionados ao meu portfólio no GitHub. 
-<br/>
-<br>
-My name is Flavio Pereira Jr, I’m 26 years old, and I’m currently studying Database Management in college.
-<br>
-Soon, new information and projects will be added to my GitHub portfolio.
-</br>
+<h5 align="center">Meu nome é Flavio Pereira Jr, tenho 26 anos, estou cursando faculdade de Banco de Dados.<br>Em breve, novas informações e projetos serão adicionados ao meu portfólio no GitHub.<br><br>My name is Flavio Pereira Jr, I’m 26 years old, and I’m currently studying Database Management in college.<br>Soon, new information and projects will be added to my GitHub portfolio.</h5>
 
+###
 
----
-### 🤖 Linguagens
-<img 
-    align="left" 
-    alt="Java" 
-    title="Java"
-    width="50px" 
-    style="padding-right: 20px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg"        
-/>
-
-<img 
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="50px" 
-    style="padding-right: 20px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" 
-/>
-
-<img 
-    align="left" 
-    alt="mysql" 
-    title="mysql"
-    width="60px" 
-    style="padding-right: 20px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" 
-/>
-
-<img 
-    align="left" 
-    alt="Pycharm" 
-    title="Pycharm"
-    width="50px" 
-    style="padding-right: 20px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pycharm/pycharm-original.svg" 
-/>
-
-<img 
-    align="left" 
-    alt="postgreSQL" 
-    title="postgreSQL"
-    width="50px" 
-    style="padding-right: 20px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain-wordmark.svg" 
-/>
-
-
-<br/>
-<br/>
-
----
-
-### 📊 Estatísticas
-
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="150" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=jnr98&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
-
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="150" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=jnr98&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=3" 
-  />
-<br>
-<br>
-<br>
-<br>
-</p>
-
-
-<br>
-<br>
-
-------
-<div> 
- <a href="https://www.linkedin.com/in/flavjuni/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- <a href="https://www.instagram.com/jnr_98/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-
+<div align="right">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
 </div>
+
+###
+
+<h4 align="left">🤖 Linguagens:</h4>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="50" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="50" alt="pycharm logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="50" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="50" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="50" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="50" alt="sqlite logo"  />
+</div>
+
+###
+
+<div align="center">
+  <img height="200" src="https://user-images.githubusercontent.com/74038190/218265814-3084a4ba-809c-4135-afc0-8685d0f634b3.gif"  />
+</div>
+
+###
