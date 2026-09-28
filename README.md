@@ -1,35 +1,97 @@
-<h3 align="center">👨🏾‍💻 Flavio Pereira Jr.<br>Desenvolvedor em andamento ⏳</h3>
+<h2 align="center">👨🏾‍💻 Flavio Pereira Jr.</h2>
 
-###
+<h3 align="center">Back-End • Banco de Dados • Data</h3>
 
-<h5 align="center">Meu nome é Flavio Pereira Jr, tenho 26 anos, estou cursando faculdade de Banco de Dados.<br>Em breve, novas informações e projetos serão adicionados ao meu portfólio no GitHub.<br><br>My name is Flavio Pereira Jr, I’m 26 years old, and I’m currently studying Database Management in college.<br>Soon, new information and projects will be added to my GitHub portfolio.</h5>
+<p align="center">
+  Estudante de Banco de Dados na FATEC 🎓<br>
+  Desenvolvendo projetos e aprimorando meus conhecimentos em tecnologia.
+</p>
 
-###
+<br>
 
-<h4 align="left">🤖 Linguagens:</h4>
+<h3>👨🏾‍💻 Sobre mim</h3>
+
+<p>
+Sou estudante de <b>Banco de Dados na FATEC</b>, com foco em desenvolvimento Back-End e Banco de Dados.
+Tenho experiência acadêmica com desenvolvimento de APIs, bancos de dados relacionais e trabalho em equipe utilizando metodologias ágeis.
+</p>
+
+<br>
+
+<h3>🚀 Projetos em Destaque</h3>
+
+<table>
+<tr>
+<td width="33%" valign="top">
+
+### 📚 API 2025.1
+
+Projeto desenvolvido durante minha graduação na FATEC.
+
+**Tecnologias**
+
+`Java` `MySQL`
+
+<a href="https://github.com/jnr98/API-2025-1">
+  Ver repositório →
+</a>
+
+</td>
+
+<td width="33%" valign="top">
+
+### 🗄️ API 2025.2
+
+Projeto acadêmico desenvolvido em equipe durante o segundo semestre de 2025.
+
+**Tecnologias**
+
+`Java` `Spring Boot` `MySQL`
+
+<a href="https://github.com/jnr98/API-2025-2">
+  Ver repositório →
+</a>
+
+</td>
+
+<td width="33%" valign="top">
+
+### 🚀 API 2026.3
+
+Projeto desenvolvido durante o terceiro semestre da graduação.
+
+**Tecnologias**
+
+`Java` `Spring Boot` `Docker`
+
+<a href="https://github.com/jnr98/API-2026-3">
+  Ver repositório →
+</a>
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<h3>🛠️ Tecnologias</h3>
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="50" alt="pycharm logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="50" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="50" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="50" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="50" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="50" alt="sqlite logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
-</div>
 
-###
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="45" alt="Java"/>
+<img width="10"/>
 
-<div align="center">
-  <img height="200" src="https://user-images.githubusercontent.com/74038190/218265814-3084a4ba-809c-4135-afc0-8685d0f634b3.gif"  />
-</div>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="45" alt="Spring Boot"/>
+<img width="10"/>
 
-###
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="45" alt="MySQL"/>
+<img width="10"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="45" alt="PostgreSQL"/>
+<img width="10"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="45" alt="MongoDB"/>
+<img width="10"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="45" alt="Docker"/>
+<img width="10"/>
