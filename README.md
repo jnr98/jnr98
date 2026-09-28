@@ -1,6 +1,6 @@
-<h2 align="center">👨🏾‍💻 Flavio Pereira Jr.</h2>
+<h2 align="center">Flavio Pereira Jr.</h2>
 
-<h3 align="center">Back-End • Banco de Dados • Data</h3>
+<h3 align="center">Back-End • Banco de Dados</h3>
 
 <p align="center">
   Estudante de Banco de Dados na FATEC 🎓<br>
@@ -74,6 +74,7 @@ Projeto desenvolvido durante o terceiro semestre da graduação.
 
 <br>
 
+<div align="left">
 <h3>🛠️ Tecnologias</h3>
 
 <div align="left">
@@ -95,3 +96,7 @@ Projeto desenvolvido durante o terceiro semestre da graduação.
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="45" alt="Docker"/>
 <img width="10"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="45" alt="Linux"/>
+
+</div>
